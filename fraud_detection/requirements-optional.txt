@@ -1,0 +1,2 @@
+# Optional deep-learning extension for the PDF's LSTM future-work direction.
+tensorflow>=2.16
