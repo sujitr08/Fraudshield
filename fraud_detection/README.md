@@ -1,6 +1,6 @@
 # FraudShield — Complete Streamlit Fraud Detection System
 
-FraudShield is a full internship-ready fraud detection project built around the methodology described in the supplied Financial Fraud Detection Report. It combines preprocessing, imbalance treatment, dimensionality reduction, six supervised models, hyperparameter tuning, evaluation, live scoring, batch review, and a streaming simulator in one professional Streamlit application.
+FraudShield is a fraud detection project built around the methodology described in the supplied Financial Fraud Detection Report. It combines preprocessing, imbalance treatment, dimensionality reduction, six supervised models, hyperparameter tuning, evaluation, live scoring, batch review, and a streaming simulator in one professional Streamlit application.
 
 ## PDF requirement coverage
 
